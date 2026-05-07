@@ -1,4 +1,4 @@
-# 🔐 Module 3: Cryptographic Hash Functions
+#🔐 Module 3: Cryptographic Hash Functions
 
 ### Mumbai University | BE Computer Engineering | Sem VI | Cryptography & System Security
 
@@ -228,7 +228,8 @@ Input 2:  "hello"   → Hash: 5d41402abc4b2a76b9719d911017c592
 ---
 
 ## 3️⃣ MD5 (Message Digest 5)
-
+MD5 Algorithm Complete Working: https://www.geeksforgeeks.org/what-is-the-md5-algorithm/
+MD5 Hashing Process: https://en.wikipedia.org/wiki/MD5
 ### 🔴 Definition (2 Marks)
 
 > **MD5** (Message Digest 5) is a widely used cryptographic hash function designed by **Ron Rivest in 1991**. It produces a **128-bit (16-byte)** hash value from any length input. MD5 is used for data integrity verification.
